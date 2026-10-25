@@ -16,7 +16,7 @@ SKY130. Our RTL has 16 partial-product AND operations, 12 explicit full adders a
 16 register bits. All registers use an asynchronous active-low reset. We used
 Jal's roll number for the worked example: A = 6 + 5 = 11, B = 7, so P = 77.
 The calculations, screenshots, required tables and six answers are in
-[report/report.pdf](report/report.pdf).
+[report.pdf](report.pdf).
 
 ## Results
 
